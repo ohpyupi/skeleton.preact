@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+section.content-container {
+  display: flex;
+  flex-direction: column;
+  margin: 30px;
+}
