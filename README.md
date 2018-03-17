@@ -6,9 +6,9 @@ app // a react.js application directory.
 ├── app.module.js // a main entry module file.
 ├── /containers
 │   └── /home
-│	      └── index.js
+│	└── index.js
 │   └── /profile
-│	      └── index.js
+│	└── index.js
 └── /components
     └── /nav 
         └── index.js
